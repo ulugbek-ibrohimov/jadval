@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1{
+    margin-bottom: 20px;
+    color: #343334;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    width: 250px;
+    padding: 10px 0 10px 15px;
+    border: 1px solid #DDDDDD;
+    
+}
+
+.text1{
+    background-color: #F2DEDE;
+}
+
+.text{
+    background-color: #D9EDF7;
+}
+.text2{
+    background-color: #FCF8E3;
+}
